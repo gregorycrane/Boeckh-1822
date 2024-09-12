@@ -496,7 +496,7 @@ commodorum summa eo contineri videtur, quod regi pareinus.</s>
 
 <s xml:lang="lat">Friderici Secundi magnitudo, imperii Borussici dignitas pristina, exercituum priorum fortitudo animis omnium obversabantur: illam gloriam quum sibi omnes recuperandam deerevissent, ut olim Spartani, ita pares his Borussici iuvenes avorum virtutem sese superaturos sunt polliciti et steterunt promissis.</s>
 
-<s xml:lang="lat">Erant, auditores, qui Germanorum decus in eo ponerent, quod artibus excellerent litterisque, qui in his dulcem quaererent requietem libertatisque amissae solatium: quin erant, qui exteris etiam nationibus narrarent, Germanos ad agendum parum aptos, verum ad meditandum, ad philosophandum, ad variarum rerum cognitionem parandam esse unice natos, quique eos hoc nomine maxime praedicarent. 0 subdolos stolidosve laudatores Germanae virtutis! o vanam gloriolam litterarum, si libertas deest!</s>
+<s xml:lang="lat">Erant, auditores, qui Germanorum decus in eo ponerent, quod artibus excellerent litterisque, qui in his dulcem quaererent requietem libertatisque amissae solatium: quin erant, qui exteris etiam nationibus narrarent, Germanos ad agendum parum aptos, verum ad meditandum, ad philosophandum, ad variarum rerum cognitionem parandam esse unice natos, quique eos hoc nomine maxime praedicarent. O subdolos stolidosve laudatores Germanae virtutis! o vanam gloriolam litterarum, si libertas deest!</s>
 
 <s xml:lang="lat">Germanosne ea tenuisse consilia, id admisisse dedecus, ut in litteris acquiescerent patriae et libertatis obliti?</s>
 
@@ -1732,7 +1732,7 @@ Aug. a. Mdcccxxii. habita.</head>
 <s xml:lang="lat">As I understand this more and more, the less I am satisfied not only in speaking, but even in choosing the very topic itself; and while the treatment of almost all subjects becomes easier with practice and exercise, this one task, the more often I undertake it, the more clearly I see how arduous it is, to the extent that it far and widely exceeds my abilities.</s>
 
 <s xml:lang="lat">Accedit ceteris difficultatibus non minima haec, quod quum ea, quae in rege maxime insignia sunt, ad rem publicam pertineant, et materia illinc petita videatur dignissima, quam pro tali ac tanta contione explicemus, ego illam rem uberrimam vix attingere audeo; propterea quod animus a publicis negotiis alienus non nisi in litteris occupatus est: id quod Regis nostri sapientissimi voluntati unice consentaneum esse novimus.</s>
-<s xml:lang="eng" n="gpt3.5">To these difficulties, not the least of which is added, that when those things which are most distinguished in the king pertain to the public affair, and the subject matter seems to have been drawn from there most worthy for us to explain for such a great occasion, I scarcely dare to touch that very extensive matter, because my mind, being not involved in public affairs, is occupied only in literature: which we know to be entirely consistent with the most wise will of our king.</s>
+<s xml:lang="eng" n="gpt3.5">To these difficulties, not the least of which is added, that when those things which are most distinguished in the king pertain to the state[res publica], and the subject matter seems to have been drawn from there most worthy for us to explain for such a great occasion, I scarcely dare to touch that very extensive matter, because my mind, being not involved in public affairs, is occupied only in literature: which we know to be entirely consistent with the most wise will of our king.</s>
 <s xml:lang="eng">Added to other difficulties is not the least of these: when the most distinctive aspects of a king pertain to the republic, and the subject matter seems most worthy for such a great assembly, I hardly dare to touch upon this abundant topic. This is because my mind, estranged from public affairs, is occupied only with literature, which we know to be in perfect agreement with the will of our most wise King.</s>
 
 <s xml:lang="lat">Igitur ereptis maximis quid superest, auditores, quam ut paullo longius a Regis laudes nec desiderantis nec postulantis praeconio recedens in argumento ex schola petito delitescam, ne in iis verser, quibus minus idoneus videar?</s>
@@ -1746,17 +1746,23 @@ Aug. a. Mdcccxxii. habita.</head>
 
 <s xml:lang="lat">Sed nolite metuere, ne iis proponendis, quae mihi magis quam vobis, alii diei cuilibet magis <pb n="101"/> quam Regis meritissimi nataliciis convenire videantur, hodie vobis sim molestus futurus:</s>
 
-<s xml:lang="lat">non ita ineptus sum, ut aut illis litteris, quod nonnulli faciunt, immodice iactandis detrahere ceteris coner, illiberali et arroganti disputatione nihil aliud nisi nauseam audientibus facturus; neque eo usque exspatiabor, ut oratio mea reditum non inveniat: </s>
-
-<s xml:lang="lat">continebo me in iis, quae a nemine vestrum plane aliena esse putem, qui omnes hac publicae institutionis parte potissima instructi estis; </s>
-
-<s xml:lang="lat">et quoniam nulla res a civitatis ratione prorsus seiungi potest, commode perveniam etiam eo, quo me fortasse prius accessurum sperabatis, ut ex iis, quae in hoc imperio bene instituta sunt, domui regnatrici et Principi benignissimo laudem quaeram.</s>
 
 <s xml:lang="eng">But do not fear that in presenting topics that seem more fitting for any other day than for the most deserving King's birthday, I will be a nuisance to you today. </s>
 
-<s xml:lang="eng">I am not so foolish as to either excessively flaunt those literatures, as some do, thereby detracting from others with a vulgar and arrogant argument, only causing nausea to the listeners; nor will I digress so far that my speech will not find its way back. </s>
+<s xml:lang="lat">non ita ineptus sum, ut aut illis litteris, quod nonnulli faciunt, immodice iactandis detrahere ceteris coner, illiberali et arroganti disputatione nihil aliud nisi nauseam audientibus facturus; neque eo usque exspatiabor, ut oratio mea reditum non inveniat: </s>
+
+<s xml:lang="eng">I am not so foolish as to either excessively flaunt those literatures, as some do, thereby detracting from others with a vulgar and arrogant argument, only causing disgust to the listeners; nor will I digress so far that my speech will not find its way back. </s>
+
+<s xml:lang="lat">continebo me in iis, quae a nemine vestrum plane aliena esse putem, qui omnes hac publicae institutionis parte potissima instructi estis; </s>
 
 <s xml:lang="eng">I will contain myself to matters which I believe are not entirely foreign to any of you, all of whom are educated in this most important part of public instruction. </s>
+
+<s xml:lang="lat">et quoniam nulla res a civitatis ratione prorsus seiungi potest, commode perveniam etiam eo, quo me fortasse prius accessurum sperabatis, ut ex iis, quae in hoc imperio bene instituta sunt, domui regnatrici et Principi benignissimo laudem quaeram.</s>
+
+
+
+
+
 
 <s xml:lang="eng">And since no matter can be completely separated from the reasoning of the state, I will also conveniently arrive at what you perhaps hoped I would address earlier: to seek praise for the royal house and our most benevolent Prince from those things which are well established in this empire.</s>
 
@@ -1813,7 +1819,7 @@ Nam, ut ab hoc exordiar, qui in aliquo genere diutius elaborarunt atque in id an
 
 <s xml:lang="lat">At maius quiddam et gravius humanitate comprehendi iudico, facultatem dico recte et ex praeceptis virtutis agendi, notiones rerum universas, quas ideas appellant, mente concipiendi, postremo ea, quae sentias, apte explicandi: quae quum homini sint propria, unice videntur humanitatis vim continere.</s>
 
-<s xml:lang="eng">But I judge that something greater and more serious is encompassed by humanity, I mean the ability to act rightly and according to the precepts of virtue, to conceive in the mind the universal notions of things, which are called ideas, and finally, to aptly explain what you feel: since these are peculiar to man, they seem uniquely to contain the essence of humanity.</s>
+<s xml:lang="eng">But I judge that something greater and more serious is encompassed by humanity, I mean the ability to act rightly and according to the precepts of virtue, to conceive in the mind the universal notions of things, which are called ideas, and finally, to aptly explain what you feel: since these are peculiar to human beings, they seem uniquely to contain the essence of humanity.</s>
 
 
 <s xml:lang="lat">Iam vero quis tam stolidus est, ut in eo praesertim, qui nunc obtinet, eruditionis statu illa putet in solis antiquis litteris vel in his praecipue fundata esse?</s>
@@ -1840,17 +1846,17 @@ vanis commentis pessumdetur, non est quod demonstremus.</s>
 
 <s xml:lang="lat">Atque ut concedamus, perfectam philologiam potuisse nonnullis imprimis humanam videri, quae in ingenii operibus absolutissimis humani animi immensam profunditatem experiatur, et quidquid magnificum, generosum, dulce, suave est, quidquid hominum mentes commovet, percellit, componit, erigit, interiore cognitione comprehendat: tamen scriptae illae Musae non solae iucunditatem spirant; etiam florum calices corollasque inhabitat Venus et Gratia: Empedoclea illa principia, amor et odium, quibus homines ducuntur, etiam rerum naturam regunt, materias inanimas congregant et segregant, consociant, dissociant; et ratio per mundum universum diffusa in maximis minimisque divini fabricatoris operibus notionum formas et imagines menti ad illa intentae offundit.</s>
 
-<s xml:lang="eng">And even if we grant that perfect philology might seem particularly humane to some, experiencing the immense depth of the human mind in the most absolute works of genius, and comprehending whatever is magnificent, noble, sweet, pleasant, whatever moves, shakes, composes, and uplifts the minds of men with inner knowledge: yet those written Muses are not the only ones that breathe delight; Venus and Grace also dwell in the cups and corollas of flowers: those Empedoclean principles, love and hatred, which lead men, also govern the nature of things, gather and separate inanimate materials, associate and dissociate them; and reason, diffused throughout the entire world, pours into the mind, intent on those things, the forms and images of notions in both the greatest and smallest works of the divine creator.</s>
+<s xml:lang="eng">And even if we grant that a perfected philology might seem particularly humane to some, experiencing the immense depth of the human mind in the most absolute works of genius, and comprehending whatever is magnificent, noble, sweet, pleasant, whatever moves, shakes, composes, and uplifts the minds of men with inner knowledge: yet those written Muses are not the only ones that breathe delight; Venus and Grace also dwell in the cups and corollas of flowers: those Empedoclean principles, love and hatred, which lead men, also govern the nature of things, gather and separate inanimate materials, associate and dissociate them; and reason, diffused throughout the entire world, pours into the mind, intent on those things, the forms and images of notions in both the greatest and smallest works of the divine creator.</s>
 
 
 <s xml:lang="lat">Nec si cuperem, dicere possem, quo iure quaestiones grammaticae subtilissimae possent magis humanae haberi quam physicorum observationes microscopicae.</s>
 
-<s xml:lang="eng">Nor could I say, even if I wished, by what right the most subtle grammatical questions could be considered more humane than the microscopic observations of physicists.</s>
+<s xml:lang="eng">Nor could I say, even if I wished, by what right the most subtle grammatical questions could be considered more humane than the microscopic observations of natural scientists.</s>
 
 
 <s xml:lang="lat">Quid quod universa antiquitatis studiorum materia, si linguas veteres exceperis, ipsis ceteris disciplinis continetur? quae nisi ad humanitatem pertinerent, non posset illud, quod inde compositum est, studium humanum vocari.</s>
 
-<s xml:lang="eng">What about the fact that the entire subject matter of antiquity studies, except for the ancient languages, is contained in the other disciplines themselves? If these did not pertain to humanity, then that which is composed from them could not be called human study.</s>
+<s xml:lang="eng">What about the fact that the entire subject matter for the studies of antiquity, except for the ancient languages, is contained in the other disciplines themselves? If these did not pertain to humanity, then that which is composed from them could not be called human study.</s>
 
 
 <s xml:lang="lat">Nisi forte humanitatem in eo quaesiveris, ut in philologorum litteris sola singularum rerum initia tenuia tradantur, abstrusiora negligantur: quemadmodum Aristoteles liberaliter educandos artibus non ita institui voluit, ut in iis perfecti, sed ut rudimentis imbuti essent: quod ut de educatione liberali non male dictum est, ita non debet ad doctrinarum rationem iudicandam transferri.</s>
@@ -1878,7 +1884,7 @@ haec est utilitas.</s>
 
 <s xml:lang="lat">Dein critica et grammatica disciplina iudicium quidem format et fingit, sed a prompte disserendo magis revocat quam eam facultatem affert.</s>
 
-<s xml:lang="eng">Then, critical and grammatical discipline indeed shapes and forms judgment, but it more often deters from ready discourse than it provides that ability.</s>
+<s xml:lang="eng">Then, critical and grammatical discipline indeed shapes and forms judgment, but it more often deters from the ability to speak on the subject with fluency than it provides that ability.</s>
 
 <s xml:lang="lat">Enimvero plurimos, qui in illo genere diligentius versantur (nec me excipio), non magnopere in dicendo exercitatos esse, sed accurata et subtili sermonis disquisitione eo redigi videmus, ut et copia sententiarum eos deficiat, et ipsa oratio, quod vitia acrius perspiciunt et formidolosius cavent, sibi quasi diffidens minus fluat: fere ut Aristarchus, grammaticorum parens, interrogatus ut videtur, cur non ipse carmen componeret, quum carminum vitia et virtutes optime cognitas haberet, fertur respondisse, neque se posse scribere, quemadmodum vellet, neque velle, quemadmodum posset.</s>
 
@@ -1886,7 +1892,7 @@ haec est utilitas.</s>
 
 <s xml:lang="lat">Alii optimis exemplaribus versandis hoc unum assecuti sunt, ut, quod Latinis maxime oratoribus exprobratur, multis verbis nihil dicant, vel ut Imperator Claudius eleganter sed inepte scribant.</s>
 
-<s xml:lang="eng">Others, by dealing with the best examples, have achieved only this: that, as is especially reproached to Latin orators, they say nothing with many words, or write elegantly but inaptly, like Emperor Claudius.</s>
+<s xml:lang="eng">Others, by dealing with the best examples, have achieved only this: that, for which Latin orators most of all have been criticized, they say nothing with many words, or write elegantly but inaptly, like Emperor Claudius.</s>
 
 <s xml:lang="lat">Postremo si aequabilem virium animi cultum, quem antiquarum litterarum studia praestare dicuntur, nec tamen multis praestiterunt, humanitatis nomine vocare velis, illa ipsa aequabilis eruditio magis ex ingenii bonitate pendet, eoque erit perfectior, quo plura probe subacta et digesta mens cogitatione complecti potuerit; in quo summi erunt philosophi, siqui, quam indolis magnitudinem in Aristotele et Leibnitio fuisse scimus, universum doctrinarum orbem permeaverint.
 
@@ -1898,7 +1904,7 @@ haec est utilitas.</s>
 <p><s xml:lang="lat">
 Quae quum ita sint, mitto eximium illum titulum litteris nostris impositum, et in eam, unde propagatus est, aetatem relego, qua Europae nationes ex barbariae inveteratae sordibus emergentes et in veterum auctorum contemplatione incalescentes hinc omnis melioris cultus semina petebant, qua summus poeta Dantes Aligherius Virgilium tamquam omnibus numeris absolutum artis suae specimen suspiciebat, Franciscus Petrarca de restituenda in communem usum Latina lingua cogitabat, qua in Platonis et Aristotelis libris unici sanioris philosophiae fontes scaturiebant; denique qua ad antiquorum scriptorum elegantiam Latino sermone aemulandam merito optima ingenia convertebantur: nunc adultis litteris aliter statuendum videtur.</s>
 
-<s xml:lang="eng">Given these circumstances, I discard that distinguished title imposed on our literature, and I relegate it to the era from which it originated, when the nations of Europe, emerging from the filth of ingrained barbarism and warming in the contemplation of ancient authors, sought from them the seeds of all better culture, where the supreme poet Dante Alighieri admired Virgil as a model of his art perfected in all respects, Francesco Petrarca thought about restoring Latin language for common use, where in the works of Plato and Aristotle the sources of a uniquely healthier philosophy were gushing; finally, where the best talents were rightly turned to emulate the elegance of ancient writers in Latin language: now, with literature matured, a different decision seems appropriate.</s>
+<s xml:lang="eng">Given these circumstances, I discard that distinguished title imposed on our literature, and I relegate it to the era from which it originated, when the nations of Europe, emerging from the filth of ingrained barbarism and warming in the contemplation of ancient authors, sought from them the seeds of all better culture, where the supreme poet Dante Alighieri admired Virgil as a model of his art perfected in all respects, Francesco Petrarca thought about restoring Latin language for common use, where in the works of Plato and Aristotle the springs of a uniquely healthier philosophy were bubbling; finally, where the best talents were rightly turned to emulate the elegance of ancient writers in Latin language: now, with literature matured, it seems appropriate to make a different decision.</s>
 
 <s xml:lang="lat">Itaque ubi, quae et qualis philologia meo iudicio sit, quaeritis, simplicissima ratione respondeo, si non latiore, quae in ipso <pb n="105"/> vocabulo inest, potestate accipitur, sed ut solet ad antiquas litteras refertur, esse eam universae antiquitatis cognitionem historicam et philosopham.</s>
 
@@ -1989,7 +1995,7 @@ Quae quum ita sint, mitto eximium illum titulum litteris nostris impositum, et i
 
 <s xml:lang="eng">But about this, although it can be confirmed by the authority of the greatest men and by the fact itself, I think it better to remain silent, lest I exceed what befits my person; it is pleasing to illustrate with clear examples what I have placed first.</s>
 
-<s xml:lang="lat">Fridericus Magnns et Neapolio Imperator documento sunto.</s>
+<s xml:lang="lat">Fridericus Magnus et Neapolio Imperator documento sunto.</s>
 
 <s xml:lang="eng">Let Frederick the Great and Emperor Napoleon serve as examples.</s>
 
@@ -2030,7 +2036,7 @@ infestam veterum scriptorum tractationem esse pro sua perspicacitate intelligere
 </s></p><p><s xml:lang="lat">
 Conservemus igitur hoc generis humani bonum commune, quo omnes aetates altae sunt: sed agamus etiam gratias Principi <pb n="109"/> clementissimo, quem tacite quidem semper, sed hodie palam veneramur, cuius auspiciis scholarum disciplina a viris illis praestantissimis, qui nobis quoque praefecti sunt, successu faustissimo adiuvatur.</s>
 
-<s xml:lang="eng">Therefore, let us preserve this common good of humanity, by which all ages are nourished: but let us also give thanks to the most clement Prince, whom we always silently, but today openly venerate, under whose auspices the discipline of schools is most successfully aided by those most excellent men, who are also appointed over us.</s>
+<s xml:lang="eng">Therefore, let us preserve this common good of humanity, by which all ages are nourished: but let us also give thanks to the most clement Prince, whom we always silently, but today openly, venerate, under whose auspices the discipline of schools is most successfully aided by those most excellent men, who are also appointed over us.</s>
 
 <s xml:lang="lat">Ex quo intelligitur illos perspectum habere, quibus rebus vera populi salus fulta sit: nam ut ridiculum dicere videar, tamen dicam, non exercitus, non opes, non illustrissimos viros tanto esse civitati munimento, quanto bonos iuventutis magistros; inter quos nos quidem primi sumus, sed scholastici praeceptores, in quibus haud pauci ea doctrinae copia instructi sunt, ut etiam maioribus muneribus sufficiant, eo magis mihi remuneratione digni videntur, quo maior eorum molestia est et locus minus splendidus.</s>
 
